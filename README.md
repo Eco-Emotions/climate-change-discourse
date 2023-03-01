@@ -1,2 +1,10 @@
 # climate-change-discourse
 a comparison of topics extracted from Reddit vs topics of traditional news media about climate change
+
+High-Level Overview
+
+1. Climate Change Discussions on Reddit: In this project, we will analyze climate change discussions on Reddit using the Reddit API and NLP techniques. We will collect data from the subreddit r/climatechange, preprocess the data, perform sentiment analysis, and topic modeling to identify the key topics and themes discussed in these forums. We will then interpret the topics and sentiments to identify opportunities for behavior change.
+
+2. News Media Discussions on Environmental Topics: In this project, we will analyze news media discussions on environmental topics using a dataset from Kaggle and NLP techniques. We will preprocess the data, perform sentiment analysis, and topic modeling to identify the key topics and themes discussed in these forums. We will then interpret the topics and sentiments to identify opportunities for behavior change. We will also explore how the topics have evolved over time and compare our findings with the climate change discussions on Reddit.
+
+3. Comparing the Two Research Projects: By comparing the findings from the two research projects, we can gain valuable insights into how climate change discussions differ across different platforms and types of media. For example, we can compare the topics and themes identified in the Reddit discussions with those identified in the news media discussions to see if there are any significant differences. We can also compare the sentiment analysis results to see if there are any significant differences in the overall sentiment towards climate change between the two platforms. Furthermore, we can compare the behavior change opportunities identified in both projects to identify commonalities and differences in the potential solutions and strategies for addressing climate change. By conducting this comparative analysis, we can gain a deeper understanding of how different audiences perceive climate change and how we can tailor our messaging and strategies to effectively address this critical issue.
